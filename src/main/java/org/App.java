@@ -6,7 +6,7 @@ package org;
  */
 public class App 
 {
-    public static void main( ABCD String[] args )
+    public static void main( ABCDef String[] args )
     {
         System.out.println( "Hello World!" );
     }
